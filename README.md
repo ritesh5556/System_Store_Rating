@@ -11,12 +11,12 @@ A full-stack application for managing and rating stores, with separate interface
 Use the following credentials to explore the app's different roles:
 
 - **Admin**
-  - Email: `akash@gmail.com`
-  - Password: `123456`
+  - Email: `admin@example.com`
+  - Password: `admin123`
 
 - **Store Owner**
-  - Email: `chaitanya@gmail.com`
-  - Password: `123456`
+  - Email: `storeowner@example.com`
+  - Password: `store123`
 
 ## Overview
 
