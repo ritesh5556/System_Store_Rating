@@ -38,10 +38,10 @@ const passwordUpdateValidation = [
     .withMessage('Current password is required'),
   body('newPassword')
     .isLength({ min: 8, max: 16 })
-    .withMessage('New password must be between 6 and 16 characters'),
+    .withMessage('New password must be between 6 and 16 characters')
     // Comment out strict password requirements for testing
-     .matches(/^(?=.*[A-Z])(?=.*[!@#$%^&*])/)
-     .withMessage('New password must include at least one uppercase letter and one special character'),
+    .matches(/^(?=.*[A-Z])(?=.*[!@#$%^&*])/)
+    .withMessage('New password must include at least one uppercase letter and one special character'),
 ];
 
 // Routes
