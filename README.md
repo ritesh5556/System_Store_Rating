@@ -6,7 +6,7 @@ A full-stack application for managing and rating stores, with separate interface
 
 🌐 [https://store-rating-stystem.vercel.app](https://store-rating-stystem.vercel.app)
 
-### 🔐 Demo Credentials
+### 🔐 Credentials
 
 Use the following credentials to explore the app's different roles:
 
