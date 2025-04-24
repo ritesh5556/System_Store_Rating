@@ -18,6 +18,10 @@ Use the following credentials to explore the app's different roles:
   - Email: `storeowner@example.com`
   - Password: `store123`
 
+- **Normal User**
+  - Email: `user@example.com`
+  - Password: `user123`
+
 ## Overview
 
 The Store Rating System allows:
